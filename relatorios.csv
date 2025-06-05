@@ -1,0 +1,2 @@
+_id,restaurante_id,tipo,periodo.inicio,periodo.fim,dados.total_pedidos,dados.total_vendas,data_geracao,formato,status
+683d8d08c709d34c031201f4,683d8d05c709d34c0311e481,desempenho_mensal,2023-04-01T00:00:00.000Z,2023-04-30T00:00:00.000Z,179,648.13,2025-06-02T11:37:44.777Z,json,disponivel
